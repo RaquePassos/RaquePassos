@@ -23,5 +23,9 @@
 Apaixonada por tecnologia, poder transformar a vida das pessoas por meio da programação.
 
 ### Últimos projetos:
+- [IMOBILIARIA - Site responsivo - HTML, CSS, Javascript](https://imobiliariaholux.netlify.app)</br>
+- [BANK - Site responsivo - HTML, CSS, Javascript](https://bancoeasy.netlify.app/)</br>
+- [TO DO List - HTML, CSS, Javascript puro](https://gerenciartarefas.netlify.app/)</br>
+- [JOGO Pedra, Papel, Tesoura - HTML, CSS, Javascript](https://jogoppts.netlify.app/)</br>
 - [DSMETA - Relatório de vendas - React e Spring](https://metasale.netlify.app)</br>
-- [Mundo Invertido - HTML, CSS, JavaScript, Firebase](https://mundoinvertido1.netlify.app)</br>
+
