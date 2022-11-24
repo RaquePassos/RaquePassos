@@ -23,6 +23,7 @@
 Apaixonada por tecnologia, poder transformar a vida das pessoas por meio da programação.
 
 ### Últimos projetos:
+- [PETSHOP - Site responsivo - HTML, CSS / SASS, Javascript](https://petlifeshop.netlify.app/)</br>
 - [IMOBILIARIA - Site responsivo - HTML, CSS, Javascript](https://imobiliariaholux.netlify.app)</br>
 - [BANK - Site responsivo - HTML, CSS, Javascript](https://bancoeasy.netlify.app/)</br>
 - [TO DO List - HTML, CSS, Javascript puro](https://gerenciartarefas.netlify.app/)</br>
